@@ -4,7 +4,7 @@ Sains data menjadi salah satu hal yang saya sangat minati akhir-akhir ini. Repo 
 
 ### Table of content
 
-[1. Visualisasi Dan Pandas Sederhana](https://github.com/SulthanAbiyyu/Road-To-Data-Scientist/tree/master/1_Visualisasi%20Dan%20Pandas%20Sederhana)
+[1. Visualisasi Dan Pandas Sederhana](https://github.com/SulthanAbiyyu/Road-To-Data-Scientist/tree/master/1_Visualisasi%20Dan%20Pandas%20Sederhana) \
 [2. Mencoba Challange BCC 2021](https://github.com/SulthanAbiyyu/Road-To-Data-Scientist/tree/master/2_Mencoba%20Challange%20BCC%202021)
 
 3. (Coming soon)
