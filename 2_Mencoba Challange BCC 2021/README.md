@@ -14,6 +14,6 @@ BCC(Basic Computing Community) adalah salah satu komunitas yang ada di FILKOM Un
 
 ---
 
-Timeline Perbaruan :
+Timeline Pembaruan :
 
 - 12 November 2021
