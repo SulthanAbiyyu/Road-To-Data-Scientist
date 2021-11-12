@@ -11,6 +11,6 @@ Sains data menjadi salah satu hal yang saya sangat minati akhir-akhir ini. Repo 
 4. (Coming soon)
 
 -----
-Timeline perbaruan : 
+Timeline pembaruan : 
 - 17 Oktober 2021
 - 12 November 2021
