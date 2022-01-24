@@ -14,3 +14,4 @@ Sains data menjadi salah satu hal yang saya sangat minati akhir-akhir ini. Repo 
 Timeline pembaruan : 
 - 17 Oktober 2021
 - 12 November 2021
+- 05 Januari 2022
