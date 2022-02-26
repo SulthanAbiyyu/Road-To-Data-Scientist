@@ -5,7 +5,7 @@ Sains data menjadi salah satu hal yang saya sangat minati akhir-akhir ini. Repo 
 ### Table of content
 
 [1. Visualisasi Dan Pandas Sederhana](https://github.com/SulthanAbiyyu/Road-To-Data-Scientist/tree/master/1_Visualisasi%20Dan%20Pandas%20Sederhana) \
-[2. Used BMW Prediction](https://github.com/SulthanAbiyyu/Road-To-Data-Scientist/tree/master/2_Coba%20coba)
+[2. Used BMW Prediction](https://github.com/SulthanAbiyyu/Road-To-Data-Scientist/tree/master/2_Coba%20coba) \
 [3. Intel Image Classification](https://github.com/SulthanAbiyyu/Road-To-Data-Scientist/tree/master/3_Intel%20image%20classification)
 
 4. (Coming soon)
